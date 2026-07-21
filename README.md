@@ -1,8 +1,7 @@
-a/README.md → b/README.md
-@@ -0,0 +1,128 @@
+
 +<div align="center">
 +
-+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=500&height=70&lines=Arkane;arcane+%E2%80%94+%22tersembunyi%2C+rahasia%22;crafting+digital+artifacts;exploring+the+uncharted" alt="Typing SVG">
++<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=500&height=70&lines=crafting+digital+artifacts;exploring+the+uncharted" alt="Typing SVG">
 +
 +<br/>
 +
