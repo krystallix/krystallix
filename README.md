@@ -4,11 +4,11 @@
 
 <br/>
 
-<pre>
-╔══════════════════════════════════════╗
-║  code · design · distributed systems ║
-╚══════════════════════════════════════╝
-</pre>
+```diff
++ ╔══════════════════════════════════════╗
++ ║  code · design · distributed systems ║
++ ╚══════════════════════════════════════╝
+```
 
 <br/>
 
@@ -43,12 +43,21 @@ class Arkane:
 ### 🛠️ stack at a glance
 
 <div align="center">
+
+```diff
+  LANGUAGES   Go · Python · TypeScript
++ ████████████████░░░░░░░░  70%
+
+  FRONTEND    React · Next.js · Tailwind
++ ██████████████████████░░  90%
+
+  BACKEND     Node · FastAPI · PostgreSQL
++ ████████████████░░░░░░░░  65%
+
+  INFRA       Supabase · Dokploy · Docker
++ ███████████████░░░░░░░░░  60%
 ```
-  LANG      ●●●●●●●○○○   Go · Python · TypeScript 
-  FRONTEND  ●●●●●●●●○○   React · Next.js · Tailwind
-  BACKEND   ●●●●●●○○○○   Node · FastAPI · PostgreSQL
-  INFRA     ●●●●●●○○○○   Supabase · Dokploy · Docker
-```
+
 </div>
 
 <br/>
@@ -71,12 +80,12 @@ class Arkane:
 
 ### 🌙 the grid
 
-```yaml
-mood: focused
-current_focus: distributed systems & clean architecture
-learning: deeper Go concurrency patterns
-listening_to: lo-fi while debugging
-status: shipping quietly
+```diff
++ mood: focused
++ current_focus: distributed systems & clean architecture
++ learning: deeper Go concurrency patterns
++ listening_to: lo-fi while debugging
++ status: shipping quietly
 ```
 
 <br/>
